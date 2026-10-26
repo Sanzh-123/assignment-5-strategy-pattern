@@ -8,7 +8,7 @@
 ---
 
 ## 2. UML Class Diagram
-![uml.png][uml.png]
+![uml.png]
 ---
 
 ## 3. Clean Code Section
