@@ -8,8 +8,7 @@
 ---
 
 ## 2. UML Class Diagram
-![uml.png]
-
+![UML Class Diagram](uml.png)
 ---
 
 ## 3. Clean Code Section
@@ -36,5 +35,3 @@ Implementing the Strategy pattern introduced slight class bloat by creating sepa
 
 ## 6. GitHub Repository
 [Link to GitHub Repository](https://github.com/Sanzh-123/assignment-5-strategy-pattern)
-
-[def]: uml.png
